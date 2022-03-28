@@ -1,5 +1,7 @@
-# main functions
-class main(self):
+# main class
+import sys
+from perceptron_init import Perceptron
+# Perceptronperceptron_init.py
+model = Perceptron(5)
 
-  def__init__(self):
- 
+print(model.inputNeurons)
